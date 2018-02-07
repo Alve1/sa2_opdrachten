@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sa2_opdrachten.iml" filepath="$PROJECT_DIR$/.idea/modules/sa2_opdrachten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sa2_opdrachten_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sa2_opdrachten_main.iml" group="sa2_opdrachten" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sa2_opdrachten_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sa2_opdrachten_test.iml" group="sa2_opdrachten" />
     </modules>
   </component>
 </project>
